@@ -120,6 +120,13 @@ Download trained models from:
 
 ---
 
+## 📸 Demo
+Here’s a sample output from the web app:
+
+![App Screenshot](https://github.com/MHS-007/AI-Lab-Project/blob/450e32a262f1638e65a5c69c3a3b57274f3862c0/Screenshots/Screenshot_01.png)
+
+---
+
 ## ⚠️ Notes & Limitations
 
 - The models were trained on limited datasets; predictions may vary with unseen or poor-quality images.
